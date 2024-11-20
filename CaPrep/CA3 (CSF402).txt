@@ -1,0 +1,7 @@
+Attempt any two questions (Each question carries 15 marks):
+
+1. Develop a web-application using Express JS and Mongo DB to display a home page (index.html) that contains a registration page asking the user to input username, password, confirm password, gender (Male, Female or Transgender) and qualification (Undergraduate, Graduate or Post-Graduate). Use appropriate fields to let the user enter the data with ease. On clicking on the submit button, the data should be stored in the pre-defined MongoDB database. A message "Your data submitted successfully" shall be displayed on the browser after the data is submitted successfully in the database.
+
+2. Develop a web-application using Express JS and MongoDB that displays a login page asking the user to input his/her username and password. If the username and password entered by the user is correct (i.e. the username-password sequence is available in the MongoDB database), the user must be redirected to the success page. Otherwise, the user must be redirected to the error page. Create a MongoDB database and insert appropriate data into it prior execution of the web-application.
+ 
+3. Develop a web application using Express and Node JS that displays the use of Sessions. 
